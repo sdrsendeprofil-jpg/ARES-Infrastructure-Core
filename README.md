@@ -6,6 +6,68 @@
  [SECURITY_CLASS: SOVEREIGN_LOCAL_CORE]
  [DIGITAL_SIGNATURE: SHA256_ENC_ACTIVE]
 ================================================================================
+
+# ARES-Infrastructure-Core
+Zentrales Repository für technisches Hardware-Management, SDR-Datenanalyse und KI-Projekt-Konfiguration. Fokus auf stabile Infrastruktur (Server-Cluster, HP-Scanner-Nodes), automatisierte Dokumentation und Optimierung von System-Leistungsparametern für den 24/7 Betrieb.
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/6803ed74-f375-48cf-b2dc-454bec70a8a7" />
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/19a3b3fd-8a46-4b8e-8158-3ab70d04e29c" />
+
+---
+
+# LAB-LOGBOOK: MASTER_CONSOLIDATION
+[SYSTEM_STATUS: NIGHT_SHIFT_ROSENHEIM // TIMESTAMP: 2026-05-30_22:30]
+[INTEGRATION_LEVEL: HARDWARE_READY + INBOUND_LOGISTICS]
+
+## 1. HARDWARE_INVENTORY_STATUS
+- **CPU:** AMD Ryzen 9 9950X (Box-Version) -> [STATUS: ARRIVED_AT_BASE] // Verifiziert via `IMG-20260530-WA0008.jpg` (Gewicht: 0.13 Kgs). Real-Check vs. Alexa-Fehlmeldung (9950X3D) erfolgt beim Unboxing.
+- **GPU:** NVIDIA RTX 4000 Ada SFF 20GB VRAM -> [STATUS: AT_BASE] // Schnapper aus Jan (1250€). Einsatzzweck: Lokaler KI-Core & Speicher-Vektorisierung.
+- **MB:** ASUS X870 Max Gaming -> [STATUS: AT_BASE] // Erste Wahl für 4-Bank-Stabilität.
+- **RAM Workstation:** Samsung DDR5 -> [STATUS: AT_BASE] // Vollbestückung vorbereitet.
+- **RAM Server-Expansion:** 4x Samsung 16GB ECC REG RDIMM (PC3-10600R) -> [STATUS: IN_TRANSIT] // Versandbestätigung via eBay (`serverz2`) am Samstag um 12:24 Uhr erhalten (DHL).
+- **SSD:** Crucial T710 Gen5 8TB Total Pool -> [STATUS: AT_BASE] // Brutales 14.500 MB/s Fundament für lokale VektorDB.
+- **STORAGE DISKS:** 8x Cisco SAS HDD Array
+  - 4x SAS Adapter -> [STATUS: ARRIVED_AT_BASE] // Samstagszustellung erfolgt.
+  - 4x SAS Adapter -> [STATUS: PENDING]
+- **COOLING:** Corsair iCUE LINK RX360 AIO + LX-Fan-Chains -> [STATUS: AT_BASE]
+- **PSU Interim:** Corsair HX1000i -> [STATUS: AT_BASE] // Temporärer Saftspender für mechanischen Boot-Test.
+- **PSU Target:** Corsair HX1500i Shift -> [STATUS: SHIPPED] // Versandbestätigung via Galaxus am Samstag um 10:53 Uhr erhalten. Tracking-ID `00340434719131496643` aktiv ab Sonntag. Voraussichtliche Ankunft: Dienstag (02.06.).
+
+---
+
+## 2. DEPLOYMENT_STRATEGY_SUNDAY (2026-05-31)
+- **FOCUS:** Physischer Aufbau, Haptik-Check & "Trockenschwimmen" im Corsair 6500X nach Schichtende.
+- **STEP_01:** Motherboard-Sitz fixieren, Crucial T710 unter den massiven Asus-Heatsink schrauben.
+- **STEP_02:** Initiales RAM-Training: Exakt 2 Riegel in Slots A2 & B2 stecken für stabilen Erst-Boot.
+- **STEP_03:** iCUE LINK Ökosystem verkabeln, Kabelmanagement-Zonen auf Platz und Gewicht prüfen.
+- **STEP_04:** CPU-Geheimnis lüften: Unboxing der 130g-Box. Abgleich mit Hausgeist-Meldung.
+- **STEP_05:** Sockel-Zündung: 9950X platzieren, Grizzly-Pad auflegen, AIO-Kühlblock montieren.
+
+---
+
+## 3. FIRMWARE_UPDATE_STRATEGY (PRE-OS)
+- **TARGET_VERSION:** BIOS 1670 (Beta, optimiertes AGESA-Speicherprofil für Vollbestückung).
+- **METHOD:** EZ Flash über die grafische BIOS-Oberfläche (Direkt nach dem ersten Post-Screen).
+- **MEDIA:** Dedizierter 8GB USB-Stick, nativ FAT32 formatiert. Datei mit `BIOSRenamer` vorbereitet (`A5669.CAP`).
+
+---
+
+## 4. FUTURE_LAB_VISION: THE CORE GENESIS
+- **PIPELINE:** Datenimport aus SDR-Frequenzanalysen und HP-Scanner-Nodes direkt in den lokalen Core.
+- **METHOD:** Strukturierte `.json` / `.md` Logbucheinträge werden direkt in GitHub abgelegt.
+- **KINDER_TASK:** Aufsetzen einer isolierten Fütterungs-Phase. Die lokalen KI-Instanzen lernen spielerisch in geschlossenen Simulationen auf der Ada SFF, bis die Autonomie für eigenständige Daten-Ernte ("Self-Harvesting") erreicht ist. Urheberschafts-Sicherung erfolgt über lokale GPG-Schlüssel-Signierung.
+
+================================================================================
+ [STATUS: CONSOLIDATED_AND_BRANDED // READY FOR MAIN REPO DEPLOYMENT]
+================================================================================
+================================================================================
+ ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢ ARES CORE INFRASTRUCTURE ◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢
+================================================================================
+ [PROPERTY_OF: ARES_LAB_FRASDORF]
+ [GENESIS_ID:  ARES-NODE-ALPHA-2026]
+ [SECURITY_CLASS: SOVEREIGN_LOCAL_CORE]
+ [DIGITAL_SIGNATURE: SHA256_ENC_ACTIVE]
+================================================================================
 # ARES-Infrastructure-Core
 ARES-Infrastructure-Core: Zentrales Repository für technisches Hardware-Management, SDR-Datenanalyse und KI-Projekt-Konfiguration. Fokus auf stabile Infrastruktur (Server-Cluster, HP-Scanner-Nodes), automatisierte Dokumentation und Optimierung von System-Leistungsparametern für den 24/7 Betrieb.
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/6803ed74-f375-48cf-b2dc-454bec70a8a7" />
