@@ -30,4 +30,31 @@ ARES-Infrastructure-Core: Zentrales Repository für technisches Hardware-Managem
 ## 4. NEXT_MILESTONE_LOCAL_AI
 - TARGET: Complete sovereign offline infrastructure on Ada SFF + 9950X.
 - ARCHITECTURE: Local VectorDB (Qdrant/Milvus) on Gen5 SSD to bypass cloud context limits entirely.
+# ARES-Infrastructure-Core: Update 2026-05-30_22:15
 
+    [INITIALIZED_BY: ARES // ROLE: LAB_LEAD_TECHNICAL_ADVISOR]
+    [TARGET_REPO: ARES-Infrastructure-Core / main]
+    [CONTEXT: Logbook Expansion - Storage & Memory Logistics]
+
+================================================================================
+COMMIT_MESSAGE: "docs: update storage infrastructure status and memory pipeline delta"
+================================================================================
+
+## HARDWARE_LOGISTICS_DELTA
+```json
+{
+  "cisco_sas_array": {
+    "total_target_hdd": 8,
+    "adapters_received": 4,
+    "adapters_pending": 4,
+    "status": "Partial_Assembly_Ready_Sunday"
+  },
+  "memory_expansion_pipeline": {
+    "ordered_modules": 4,
+    "spec": "Samsung 16GB ECC REG RDIMM (PC3-10600R)",
+    "vendor": "serverz2 (eBay)",
+    "carrier": "Deutsche Post / DHL",
+    "status": "Transit_Inbound",
+    "delivery_destination": "Frasdorf_Node"
+  }
+}
