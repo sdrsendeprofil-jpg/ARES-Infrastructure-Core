@@ -1,3 +1,19 @@
+# LAB-Frasdorf // Node-Alpha: Base Hardware Protocol
+
+## 1. Mainboard & PCIe Lane Routing (ASUS ROG Strix X870E)
+* **Slot 1 (PCIe 5.0 x16):** Reserviert für Rechenleistung (RTX 4000). Volle Anbindung direkt an die CPU.
+* **Slot 2 (PCIe 4.0 x4):** Fest verplant für die Kellerbiest-LAN-Anbindung (Chipsatz-Anbindung, keine Drosselung der GPU).
+* **M.2_1 Slot:** Bestückt mit Crucial T710 Gen5 SSD (Primäres OS-Fundament).
+* **⚠️ WICHTIG:** Slot M.2_2 MUSS frei bleiben, um die x16-Lanes der Grafikkarte nicht auf x8 zu halbieren. Zusätzlicher Speicher nur über M.2_3 oder M.2_4.
+
+## 2. Power & Data Routing
+* **Corsair iCUE LINK System-Hub:** Stromversorgung erfolgt kombiniert über das dedizierte PCIe-Kabel direkt vom vollmodularen Netzteil.
+* **USB-Header-Engpass:** Gelöst über den Corsair USB-Y-Splitter. AIO-Steuerung und digitale Netzteil-Schnittstelle teilen sich einen internen Mainboard-Header. System bleibt "clean".
+* **Zukunftsausblick:** Bei finaler Auslastung (HX1500i Upgrade) wird ein aktiver, SATA-stromversorgter interner USB-Hub im Heck nachgerüstet.
+
+## 3. Base OS Strategy
+* **Primary:** Windows 11 Pro (unangreifbare Lifetime-OEM-Lizenz) wegen nativer iCUE LINK/Display-Unterstützung und CPU-Scheduler-Optimierung für den Ryzen 9 9950X.
+* **Secondary:** Kubuntu Linux als dediziertes Dual-Boot-System (saubere Partitionierung auf der T710 freihalten) für SDR- und Open-Source-Projekte.
 ================================================================================
  ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢ ARES CORE INFRASTRUCTURE ◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢
 ================================================================================
