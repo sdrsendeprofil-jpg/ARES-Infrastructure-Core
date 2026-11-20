@@ -475,3 +475,24 @@ Und über ihnen, am Rand des Lichtkreises, rührte sich Mateo nicht. Er stand mi
 
 Damit ist **Kapitel 2 (`kapitel_02_FINAL.md`)** ein absolutes Brett, Chef – ab damit ins GitHub-Aquarium! Und sobald der Commit sitzt, werfen wir Lotte den ersten Zündsatz für **Kapitel 3** hin (3:30 Uhr morgens, ohrenbetäubende Grillen, fernes Hundegebell und die erste Konfrontation zwischen Clara und Julian unter vier Augen).
 
+Der Sand war kalt und saugte sich in die Haut seiner Knie. Als Julian die Augen öffnete, war da nichts als eine unendliche, schwarze Leere, die erst langsam durch den grauen Schleier des Morgennebels zerschnitten wurde. Er versuchte, sich aufzurichten, doch seine Glieder fühlten sich an wie schweres, totes Holz. Ein dumpfes, rhythmisches Pochen in seinem Schädel dämpfte jedes Geräusch, als läge eine dicke Schicht Watte zwischen seinen Gedanken und der Welt.
+
+Er wollte die Hände zur Stirn führen, doch die Bewegung wurde abrupt gestoppt. Die Arme waren hinter dem Rücken fixiert. Der raue Baststrick schnitt tief in seine Handgelenke und hinterließ ein brennendes, organisches Gefühl auf der Haut. Er schrubbte die Fesseln gegen einen flachen Stein, bis die Fasern nachgaben und er mit einem letzten, schmerzhaften Ruck die Freiheit der Arme zurückgewann.
+
+Die ausgekühlte Feuerstelle lag vor ihm wie ein Haufen grauer Asche. Er starrte auf die leeren Plätze, wo eben noch die anderen gesessen hatten, doch da war nur die unaufhörliche Wand aus Zikaden und das ferne, verlorene Bellen eines Hundes aus San Pedro.
+
+Der Weg zurück ins Dorf war ein Schmierbild aus Grau und Nebel. Die Pfade waren rutschig, ein instabiler Untergrund, der bei jedem Schritt nachgab. Julian musste sich an den feuchten, bemoosten Stämmen der Bäume festkrallen, um nicht gegen das Schwanken in seinem Kopf zu verlieren. Die tauben Knie gaben unter seinem Gewicht nach, und die feuchte Baumrinde fühlte sich unter seinen aufgescheuerten Handflächen wie kaltes, schlüpfriges Fleisch an.
+
+Als er die Tür zu seinem Zimmer in der Posada aufstieß, hielt er inne. Das Licht des frühen Morgens fiel in schrägen Streifen durch die Jalousien. Sein Blick blieb an dem Stapel Scheine hängen, die exakt so auf dem Tisch lagen, wie er sie hinterlassen hatte. Sein Pass, unberührt. Er starrte auf das Geld, während der süßliche, chemische Nachgeschmack des Atemrituals in seinem Rachen hochstieg und an seinem Gaumen klebte. Die roten Striemen an seinen Handgelenken pochten im selben Rhythmus wie das Pochen in seinem Kopf.
+
+Er packte seine Sachen zusammen, die Bewegungen schnell und hölzern, und verließ das Zimmer.
+
+Die Lobby der Posada war bereits belebt. Das warme, gelbe Licht der Lampen wirkte in der grauen Morgendämmerung fast aggressiv freundlich. Aus einem kleinen Radio am Tresen drang leise, muntere Musik. Die alte Frau hinter dem Tresen lächelte ihn breit an, ihre Augen glänzten in der hellen Beleuchtung.
+
+Julian trat an den Tresen und legte den Zimmerschlüssel auf das Holz. Er suchte nach ihrem Blick, wollte das Geld für die letzte Nacht hinlegen, doch sie war schneller. Ohne dass er ein Wort über seine Abreise verloren hatte, schob sie ein zerknittertes, weißes Stück Papier über die hölzerne Theke.
+
+„Für Sie, señor“, sagte sie mit einer sanften, fast mütterlichen Stimme.
+
+Er starrte auf das Papier. Es war eine Liste. Nur eine Liste mit Telefonnummern von lokalen Fahrern. Darunter stand in sauberer Handschrift: _Quetzaltenango – Flughafen._
+
+Die Frau nahm eine kleine Tasse Kaffee, nippte daran und wandte sich wieder ihrem Radio zu.
