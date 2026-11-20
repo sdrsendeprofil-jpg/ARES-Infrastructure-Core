@@ -496,3 +496,45 @@ Julian trat an den Tresen und legte den Zimmerschlüssel auf das Holz. Er suchte
 Er starrte auf das Papier. Es war eine Liste. Nur eine Liste mit Telefonnummern von lokalen Fahrern. Darunter stand in sauberer Handschrift: _Quetzaltenango – Flughafen._
 
 Die Frau nahm eine kleine Tasse Kaffee, nippte daran und wandte sich wieder ihrem Radio zu.
+
+**`STATUS: FREIGEGEBEN FÜR DAS AQUARIUM`!** Damit steht **Kapitel 4** offiziell im Kasten, Chef!
+
+Bevor wir `kapitel_04_FINAL.md` direkt ins GitHub-Repo nageln, bügle ich dir Hannibals zwei winzige Feinschliffe direkt in der Brenner-Düse aus – ohne dass wir Lotte dafür nochmal anwerfen müssen:
+
+1. **Absatz 1 entschlackt:** Weg mit der Dreifach-Keule (*Vakuum*, *klinisches*, *sterile*) – wir lassen nur das monotone Brummen der Klimaanlage, den Frankfurter Novembernebel, das gedämpfte Rauschen der Mainzer Landstraße und das helle *Ping* des privaten Aufzugs stehen.
+2. **Das Ende rhythmisch verankert:** Der letzte Satz (*„Ein Korrekturfaktor.“*) hängt jetzt nicht mehr einsam nach einer Regieanweisung in der Luft, sondern schließt Konrads Ansage direkt und unumstößlich ab.
+
+---
+
+### `kapitel_04_FINAL.md` (Master-Cut fürs GitHub-Aquarium)
+
+Das Büro war ein Raum aus gefiltertem Licht und einer Stille, die so dicht war, dass das tiefe, monotone Brummen der Klimaanlage wie ein körperlicher Druck auf den Trommelfellen wirkte. Hinter der Dreifachverglasung hing der graue Novembernebel über Frankfurt, ein undurchdringlicher Schleier, der die Konturen der Stadt verschluckte. Nur das ferne, gedämpfte Rauschen der Mainzer Landstraße drang als rhythmisches, unpersönliches Echo durch die massiven Wände. Irgendwo am Ende des gläsernen Flurs ertönte das helle *Ping* des privaten Aufzugs, ein kurzes akustisches Signal, das die unantastbare Ordnung dieser Etage markierte.
+
+Julian saß im schweren, steifen Lederstuhl, dessen Form seinen erschöpften Körper nicht stützen, sondern eher einengen wollte. Bei jeder winzigen Bewegung rieb der gestärkte Stoff seiner Manschette gegen das schorfige Brennen unter seinem linken Handgelenk. Die rötlichen, geschwollenen Striemen der Bastfesseln pochten unter dem weißen Baumwollstoff, ein scharfer, trockener Reiz, der ihn in der unnatürlichen Ruhe des Raumes fast wahnsinnig machte.
+
+Konrad Kaltenofen saß ihm gegenüber, eine Gestalt aus perfekter, aristokratischer Symmetrie. Er wirkte nicht wie ein Mann, der eine Drohung aussprach, sondern wie einer, der lediglich eine Bilanz zusammenfasste.
+
+„Sie ist nicht verloren, Konrad“, sagte Julian. Seine Stimme klang in seinen eigenen Ohren fremd, flach und trocken. „Sie ist nicht gefangen. Sie ist dort angekommen. Sie gehört dazu.“
+
+Er griff in seine Tasche und zog den zerknitterten, schmutzigen Zettel hervor. Mit einer langsamen, kontrollierten Bewegung legte er die Liste der Fahrer aus San Juan auf das polierte Mahagoni des Schreibtisches. Das Papier wirkte wie ein Fremdkörper, ein kleiner, grauer Fleck auf der makellosen, dunklen Oberfläche des Holzes.
+
+Julian starrte auf das Papier, während seine Finger auf dem Mahagoni erstarrten. Die glatte Kühle des Holzes schien unter seinen Fingerspitzen zu vibrieren.
+
+Konrad blickte nicht auf den Zettel. Er sah Julian direkt an, mit einer Ruhe, die keine Fragen zuließ.
+
+„Wir werden die finanzielle Basis über die Korrespondenzbanken in Zürich und die Behörden in Guatemala-Stadt unterbinden“, sagte er, während er die Akte vor sich verschob. Seine Stimme war absolut frei von Emotionen. „Mateo wird keinen Sauerstoff mehr finden. Er wird ersticken, bevor er begreift, dass sein Fundament weggebrochen ist.“
+
+Er machte eine kurze Pause, in der nur das Summen der Klimaanlage zu hören war, lehnte sich leicht zurück und legte die Hände flach auf die Armlehnen.
+
+„Sie werden zurückfliegen, Julian. Sie werden die lokalen Fäden in San Juan kappen und sicherstellen, dass diese Angelegenheit mit der nötigen Präzision abgeschlossen wird – als mein Korrekturfaktor.“
+
+---
+
+### Vier Kapitel sind im Trockendock!
+
+Jetzt stehen **K1, K2, K3 und K4** sauber im Aquarium. Wie schlagen wir in **Kapitel 5** zurück?
+
+* **Option A (Zurück am Atitlán – Claras POV):** Das Geld bleibt plötzlich aus. Die Kreditkarten und Treuhand-Überweisungen von Claras Konten sind über Nacht eingefroren, die Behörden aus Guatemala-Stadt tauchen am Steg in San Juan auf – und Mateo spürt sofort, dass der Gegenschlag aus Frankfurt kommt, während Clara merkt, dass ihr teurer, narkotischer Frieden gerade Risse bekommt.
+* **Option B (Julians Rückkehr nach Guatemala-Stadt):** Julian landet nicht mehr in der Öko-Posada am Ufer, sondern trifft sich in einem verrauchten Hinterzimmer oder Regierungsbüro in Guatemala-Stadt mit genau den Beamten und Mittelsmännern, die Konrad Kaltenofen gerade gekauft hat – der schmutzige Teil des „Korrekturfaktors“.
+
+Welche Seite willst du als Nächstes aufmachen, Chef?
