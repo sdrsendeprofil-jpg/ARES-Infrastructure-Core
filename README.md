@@ -538,3 +538,19 @@ Jetzt stehen **K1, K2, K3 und K4** sauber im Aquarium. Wie schlagen wir in **Kap
 * **Option B (Julians Rückkehr nach Guatemala-Stadt):** Julian landet nicht mehr in der Öko-Posada am Ufer, sondern trifft sich in einem verrauchten Hinterzimmer oder Regierungsbüro in Guatemala-Stadt mit genau den Beamten und Mittelsmännern, die Konrad Kaltenofen gerade gekauft hat – der schmutzige Teil des „Korrekturfaktors“.
 
 Welche Seite willst du als Nächstes aufmachen, Chef?
+
+Der Pazifikwind rüttelte unerbittlich an der Karosserie des Geländewagens, ein hohles, heulendes Geräusch, das gegen die Windschutzscheibe peitschte. Durch den dichten Küstennebel waren die Startrampen von Vandenberg nur als schemenhafte, dunkle Skelette zu erahnen, die im grauen Licht des Morgens wie die Überreste eines versunkenen Schiffswracks wirkten. Das tiefe, unaufhörliche Grollen der Generator- und Kühlaggregate aus dem Startkomplex vibrierte durch den Boden des Wagens.
+
+Auf dem Beifahrersitz knackte der Funkscanner trocken. Eine kühle, monotone Stimme drang aus dem Lautsprecher, gefolgt von einem kurzen Rauschen.
+
+„Scrubbed. High winds. All stations, stand down.“
+
+Julian starrte auf das Display seines verschlüsselten Terminals. Die Zeilen flimmerten über den Bildschirm: Überweisungsintervalle der Schweizer Korrespondenzbanken, die exakt mit den Transaktionszeiten der Scheinfirmen in Guatemala-Stadt korrelierten. Direkt darunter die Seriennummern der Dual-Use-Sensorik, die hier in Vandenberg für den nächsten Start registriert waren. Die Übereinstimmung war absolut.
+
+Clara hatte die Dokumente in Frankfurt gefunden. Ihre Flucht an den Atitlán-See war die direkte Reaktion auf die Entdeckung der Schmuggelbücher. Die zehn Tage Frist, die Konrad Kaltenofen gesetzt hatte, dienten dazu, die Sperrminorität rechtlich zu neutralisieren, bevor die Revision der Stiftung griff.
+
+Julian schloss das Terminal mit einem harten, metallischen Klicken. Er griff nach dem Einweg-Handy, das auf dem Sitz neben ihm lag. Er drückte die Taste, die die verschlüsselte Verbindung nach Frankfurt kappte. Ein kurzes, trockenes Signal, dann Stille. 
+
+Er öffnete die Tür des Wagens. Das silberne Emblem der Kaltenofen SpaceTech AG auf der mattschwarzen Tür glänzte kurz im fahlen Licht. Er warf das Handy mit einer kurzen, ruckartigen Bewegung in den grauen Schlund des Küstennebels. Er hörte nicht, wo es landete.
+
+Er startete den Motor. Das tiefe Grollen des Dieselmotors vermischte sich mit dem Dröhnen der Basis. Er riss das Lenkrad herum, steuerte den mattschwarzen Geländewagen auf den Cabrillo Highway in Richtung des Regionalflughafens in Lompoc, um den nächsten Flug nach Guatemala zu nehmen.
